@@ -11,7 +11,7 @@ import EditHabit from './components/EditHabit'
 function App() {
   return (
     <ThemeProvider>
-      <Router>
+      <Router basename="/habbit">
         <AnimatePresence mode="wait">
           <Routes>
             <Route path="/" element={<Dashboard />} />
