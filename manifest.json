@@ -1,12 +1,12 @@
 {
-  "short_name": "Habit Tracker",
-  "name": "Habit Tracker PWA",
+  "short_name": "Habbit",
+  "name": "Habbit",
   "description": "Track your daily habits and build consistency",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
     }
   ],
   "start_url": ".",
